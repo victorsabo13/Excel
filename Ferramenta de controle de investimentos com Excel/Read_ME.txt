@@ -1,0 +1,3 @@
+Ferramenta de simulação criada com o objetivo de aplicar conceitos de Excel, a partir de uma compreensão básica sobre como os fundos imobiliários funcionam e as perguntas típicas dos investidores (quanto investir, por quanto tempo, taxa de rendimento, etc.). Essa ferramenta tem como objetivo ajudar o usuário a realizar simulações, auxiliando-o a tomar decisões mais informadas sobre seus investimentos. A solução proposta visa automatizar cálculos complexos, como o valor total investido, o patrimônio acumulado e os dividendos mensais, proporcionando ao usuário uma visão clara de seu potencial retorno.
+
+Essa ferramenta foi criada com base nas aulas do curso "Criando uma Ferramenta de Controle de Investimentos com Excel" da plataforma DIO.
